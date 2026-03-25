@@ -1,12 +1,8 @@
 # Digital Literacy Project
 Student Details
-
 Name: Manas Tiwari
-
 Course: B.Tech CSE Core
-
 University: VIT Bhopal University
-
 Year of Graduation: 2029
 
 # Project Overview
