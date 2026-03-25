@@ -1,1 +1,2 @@
 ![image alt](https://github.com/manas0127/Digital-Literacy/blob/main/assets/Screenshot%202026-03-25%20212902.png?raw=true)
+![image alt](https://github.com/manas0127/Digital-Literacy/blob/main/assets/Screenshot%202026-03-25%20213233.png?raw=true)
