@@ -1,37 +1,67 @@
 Digital Literacy Project
-
-Student Details
+👨‍🎓 Student Details
 Name: Manas Tiwari
 Course: B.Tech CSE Core
 University: VIT Bhopal University
 Year of Graduation: 2029
+📌 Project Overview
 
-Project Overview
+This repository is created as part of the CSE0001 Digital Literacy course.
+The project focuses on developing essential digital skills required for students to navigate the online world safely, professionally, and effectively.
 
-This repository is created as part of the CSE0001 Digital Literacy course. The project focuses on building essential digital skills required for students to navigate the online world safely, professionally, and effectively. It includes five tasks covering digital awareness, online presence, collaboration tools, communication, and cybercrime prevention.
+It includes five major tasks covering:
 
-Tasks Summary
-
-Task 1 – Digital Literacy Awareness Infographic
-Created a one-page infographic using PowerPoint explaining digital literacy, useful tools, safe internet practices, professional presence, and email etiquette.
-
-Task 2 – Student Digital Portfolio
-Set up professional profiles on platforms like GitHub, LinkedIn, and Stack Overflow to build an online presence and showcase skills.
-
-Task 3 – Coding & Collaboration Platforms
+Digital awareness
+Online presence
+Collaboration tools
+Professional communication
+Cybercrime prevention
+📂 Tasks Summary
+🖼️ Task 1 – Digital Literacy Awareness Infographic
+Created a one-page infographic using PowerPoint
+Covered:
+Meaning of digital literacy
+Useful digital tools
+Safe internet practices
+Professional online presence
+Email etiquette
+🌐 Task 2 – Student Digital Portfolio
+Built professional profiles on:
+GitHub
+LinkedIn
+Stack Overflow
+Purpose:
+Showcase skills
+Build a strong online presence
+💻 Task 3 – Coding & Collaboration Platforms
 Practiced coding on CodeChef to improve problem-solving skills
-Created a Google Form quiz for digital literacy awareness
-Google Form Link:
+Created a Google Form quiz on digital literacy
+
+🔗 Google Form Link:
 https://docs.google.com/forms/d/e/1FAIpQLSfpNNVHFWZxoKEcp3bsE9pUp_NZyDVfVmsi6HVco-B8dNh2CA/viewform?usp=publish-editor
 
-Task 4 – Email & Etiquette Guide
-Drafted professional emails and created a checklist of Do’s and Don’ts for responsible social media use.
+📧 Task 4 – Email & Etiquette Guide
+Drafted professional email samples
+Created a checklist of:
+✅ Do’s and Don’ts
+Responsible social media usage
+🔐 Task 5 – Cybercrime Awareness
+Prepared a case study on ransomware
+Created a prevention checklist including:
+Online safety tips
+UPI security practices
+🗂️ Repository Structure
+report/
+task-1-presentation/
+task-2-portfolio/
+task-3-platforms/
+task-4-email-etiquette/
+task-5-cybercrime/
+✅ Conclusion
 
-Task 5 – Cybercrime Awareness
-Prepared a case study on ransomware and created a prevention checklist including online safety and UPI security tips.
+This project helped in:
 
-Repository Structure
-report/ task-1-presentation/ task-2-portfolio/ task-3-platforms/ task-4-email-etiquette/ task-5-cybercrime/
-
-Conclusion
-This project helped me understand the importance of digital literacy, safe online behavior, and professional communication. It also improved my technical and collaboration skills.
+Understanding the importance of digital literacy
+Learning safe online behavior
+Improving professional communication skills
+Enhancing technical and collaboration abilities
