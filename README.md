@@ -1,4 +1,5 @@
 Digital Literacy Project
+
 Student Details
 Name: Manas Tiwari
 Course: B.Tech CSE Core
@@ -6,9 +7,11 @@ University: VIT Bhopal University
 Year of Graduation: 2029
 
 Project Overview
+
 This repository is created as part of the CSE0001 Digital Literacy course. The project focuses on building essential digital skills required for students to navigate the online world safely, professionally, and effectively. It includes five tasks covering digital awareness, online presence, collaboration tools, communication, and cybercrime prevention.
 
 Tasks Summary
+
 Task 1 – Digital Literacy Awareness Infographic
 Created a one-page infographic using PowerPoint explaining digital literacy, useful tools, safe internet practices, professional presence, and email etiquette.
 
